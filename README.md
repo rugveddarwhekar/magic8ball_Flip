@@ -1,4 +1,4 @@
-Magic8ball with Flip
+# Magic8ball with Flip
 
 This is a Magic 8 ball app. You ask a question and flip the devide towards you to get your fortune. 
 
